@@ -18,12 +18,13 @@ This course covers a wide range of Python concepts and projects, including:
 - Capstone Projects
 
 ## 🗂️ Repository Structure
+```
 100-days-of-code-python/
 ├── Projects/
-│ └── Day001_ProjectName.py
-│ └── Day001_ProjectName.py
-│ └── ...
+│   ├── Day001_ProjectName.py
+│   └── ...
 └── README.md
+```
 
 
 - Each file inside the `Projects/` directory represents a complete project from one day of the course.
@@ -70,6 +71,7 @@ To run any of the projects locally:
    cd 100-days-of-code-python/Projects
    
 2. **Run a Python project file** (example):
+   ```bash
    python Day001_ProjectName.py
 
 📌 Notes
